@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying at HSE Moscow university<br> 
+I am Bouye , I am currently studying at HSE Moscow university, I also like to work on data science projects<br> 
 
 
 # 💻 Tech Stack:
