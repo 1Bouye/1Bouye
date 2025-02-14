@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Bouye , I am currently studying at HSE Moscow university, I also like to work on data science projects.<br> 
+Hi! I am Bouye , I am Freelancer in web devellopement , I also like to work on data science projects.<br> 
 
 
 # 💻 Tech Stack:
